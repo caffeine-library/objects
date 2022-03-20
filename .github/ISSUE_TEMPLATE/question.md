@@ -3,7 +3,7 @@ name: question
 about: 책을 읽는 과정에서 생긴 질문을 위한 템플릿입니다
 title: "[question]"
 labels: question
-assignees: ''
+assignees: binchoo, wooyounggggg, emiling, ngwoon
 
 ---
 
@@ -15,4 +15,4 @@ ${질문 상세 내용}
 
 #{연관 issue 번호}
 
-@caffeine-library/readers-objects 
+@caffeine-library/readers-objects
