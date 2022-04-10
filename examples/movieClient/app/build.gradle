@@ -1,0 +1,12 @@
+plugins {
+    id 'org.binchoo.movie.java-application-conventions'
+}
+
+dependencies {
+    implementation project(':movie')
+}
+
+application {
+    // Define the main class for the application.
+    mainClass = 'org.binchoo.movie.MovieClient'
+}

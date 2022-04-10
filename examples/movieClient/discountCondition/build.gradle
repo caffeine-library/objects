@@ -1,0 +1,3 @@
+plugins {
+    id 'org.binchoo.movie.java-library-conventions'
+}
